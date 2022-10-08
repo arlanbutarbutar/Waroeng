@@ -1,7 +1,7 @@
 # Waroeng
 <p>Aplikasi Warung berbasis Desktop dengan jasper + java</p>
 
-<p>Anda dapat memiliki aplikasi ini dengan membayar sebesar 1.5jt dengan hosting dari kami selama setahun, dan jika anda hanya ingin membelinya tanpa hosting maka cukup bayar 1.2jt .</p>
+<p>Anda dapat memiliki aplikasi ini dengan membayar sebesar 800rb.</p>
 
 <h6>Kontak yang dapat anda hubungi:</h6>
 <p>WA: 0811-3827-421</p>
